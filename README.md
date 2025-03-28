@@ -35,22 +35,11 @@ This project presents an in-depth analysis of sales data using Python. The noteb
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
 - Jupyter Notebook
 - Time-Series Forecasting (ARIMA)
+- Power BI for the dashboard(the screenshorts are in the report)
 
-## How to Use
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/Kwanza_Submission.git
-   ```
-2. Open the Jupyter Notebook and run the cells sequentially.
-3. Install dependencies:
-   ```bash
-   pip install pandas numpy matplotlib seaborn statsmodels
-   ```
 
 ## Author
 **Harrydas Magangi**  
 [LinkedIn](www.linkedin.com/in/harrydas-ombati)
 
-## License
-This project is licensed under the MIT License.
 
