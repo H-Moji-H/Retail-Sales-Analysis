@@ -20,7 +20,7 @@ This project presents an in-depth analysis of sales data using Python. The noteb
 - **Correlation Analysis:** Examining relationships between different sales variables.
 
 ### 4. Strategic Insights and Recommendations
-- **Product Strategy:** Recommendations are based on product performance. Recommendations based on product performance are documented in the uploaded notebook.
+- **Product Strategy:** Recommendations are based on product performance. They are documented in the uploaded notebook.
 - **Customer Retention:** Identifying businesses with reduced customer frequency.
 - **Operational Efficiency:** Analyzing trends for improved efficiency.
 
