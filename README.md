@@ -39,7 +39,7 @@ This project presents an in-depth analysis of sales data using Python. The noteb
 
 
 ## Author
-**Harrydas Magangi**  
+**Harrydas Ombati**  
 [LinkedIn](www.linkedin.com/in/harrydas-ombati)
 
 
