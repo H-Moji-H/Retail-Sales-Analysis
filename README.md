@@ -21,6 +21,7 @@ This project presents an in-depth analysis of sales data using Python. The noteb
 
 ### 4. Strategic Insights and Recommendations
 - **Product Strategy:** Recommendations based on product performance.
+    The reccommenations are in the notebook
 - **Customer Retention:** Identifying businesses with reduced customer frequency.
 - **Operational Efficiency:** Analyzing trends for improved efficiency.
 
