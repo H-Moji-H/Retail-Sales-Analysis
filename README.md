@@ -31,7 +31,8 @@ This project presents an in-depth analysis of sales data using Python. The noteb
 - **Visual Summary:**
   
       1.Sales trends
-  2. top-performing products, and customer segmentation insights.
+  2. top-performing products,
+  3. and customer segmentation insights.
 
 ### 6. Bonus Section
 - **Predictive Analysis:** Evaluating external factors influencing sales.
