@@ -9,9 +9,12 @@ This project presents an in-depth analysis of sales data using Python. The noteb
 - Handles missing values and transforms data for analysis.
 
 ### 2. Exploratory Data Analysis (EDA)
-- **Sales Overview:** Aggregated sales analysis by category and business.
-- **Trends Over Time:** Visualizing sales trends and time-series plots.
-- **Performance Analysis:** Identifying top-selling products and businesses.
+- **Sales Overview:**
+    Aggregated sales analysis by category and business.
+- **Trends Over Time:**
+    Visualizing sales trends and time-series plots.
+- **Performance Analysis:**
+    Identifying top-selling products and businesses.
 
 ### 3. Advanced Analysis
 - **Customer Segmentation:** Clustering businesses based on purchasing behavior.
