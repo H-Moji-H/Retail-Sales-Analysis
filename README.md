@@ -29,7 +29,8 @@ This project presents an in-depth analysis of sales data using Python. The noteb
 
 ### 5. Dashboard and Reporting
 - **Visual Summary:**
-  1.Sales trends,
+  
+      1.Sales trends
   top-performing products, and customer segmentation insights.
 
 ### 6. Bonus Section
