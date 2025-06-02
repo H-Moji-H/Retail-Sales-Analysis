@@ -28,7 +28,9 @@ This project presents an in-depth analysis of sales data using Python. The noteb
 - **Operational Efficiency:** Analyzing trends for improved efficiency.
 
 ### 5. Dashboard and Reporting
-- **Visual Summary:** Sales trends, top-performing products, and customer segmentation insights.
+- **Visual Summary:**
+  1.Sales trends,
+  top-performing products, and customer segmentation insights.
 
 ### 6. Bonus Section
 - **Predictive Analysis:** Evaluating external factors influencing sales.
