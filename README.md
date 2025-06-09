@@ -1,7 +1,7 @@
 # Kwanza Submission
 
 ## Overview
-The project presents an in-depth analysis of sales data using Python. The notebook follows a structured workflow covering data cleaning, exploratory data analysis (EDA), advanced analytics, strategic recommendations, and dashboard reporting(power BI). The project also incorporates predictive analysis and evaluates scalability considerations.
+The project presents an in-depth analysis of sales data using Python. The notebook follows a structured workflow covering data cleaning, exploratory data analysis (EDA), advanced analytics, strategic recommendations, and dashboard reporting(Power BI). The project also incorporates predictive analysis and evaluates scalability considerations.
 
 ## Sections
 ### 1. Data Cleaning and Preparation
