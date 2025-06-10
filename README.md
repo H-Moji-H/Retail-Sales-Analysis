@@ -7,7 +7,7 @@ The project presents an in-depth analysis of sales data using Python. The notebo
 ### 1. Data Cleaning and Preparation
 - Identifies and resolves data quality issues.
 - Handles missing values
-- andtransforms data for analysis.
+- andTransforms data for analysis.
 
 ### 2. Exploratory Data Analysis (EDA)
 - **Sales Overview:**
