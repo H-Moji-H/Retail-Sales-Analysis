@@ -37,8 +37,7 @@ The project presents an in-depth analysis of sales data using Python. The notebo
 
 ### 6. Bonus Section
 - **Predictive Analysis:** It evaluates external factors influencing sales.
-
-- **Scalability Considerations:** Optimizing data storage, processing, and analysis.
+- **Scalability Considerations:** ItOptimizing data storage, processing, and analysis.
 
 ## Technologies Used
 - Python (Pandas, NumPy, Matplotlib, Seaborn, Statsmodels)
