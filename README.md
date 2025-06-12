@@ -41,7 +41,7 @@ The project presents an in-depth analysis of sales data using Python. The notebo
 
 ## Technologies Used
 - Python
-  Pandas library,
+  (Pandas library,
   NumPy,
   Matplotlib,
   Seaborn,
